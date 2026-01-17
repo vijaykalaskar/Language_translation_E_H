@@ -125,5 +125,7 @@ This project uses pre-trained models with the following licenses:
 **Project**: AI-Powered Language Translation
 
 If facing issue to acess files use below link of the google drive to download all the files
+Link - https://drive.google.com/drive/folders/1Xllu4THxWq55__gu3tvQXaQOP5B2g8R6?usp=sharing
+
 
 
