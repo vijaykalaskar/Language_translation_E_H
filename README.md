@@ -1,10 +1,6 @@
 # Language_translation_E_H
 # 🌐 English-Hindi AI Translation System
 
-## 🚀 Live Demo
-
-**Try it now:** [Live Translation App](#) *(Link will be available after deployment)*
-
 ## ✨ Features
 
 ### 🎯 Core Capabilities
@@ -127,4 +123,7 @@ This project uses pre-trained models with the following licenses:
 **Email**: vijay.kalaskar354@gmail.com
 
 **Project**: AI-Powered Language Translation
+
+If facing issue to acess files use below link of the google drive to download all the files
+
 
